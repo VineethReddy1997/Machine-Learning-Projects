@@ -1,0 +1,16 @@
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+matplotlib
+matplotlib-inline
+numpy
+pandas
+pandocfilters
+scikit-learn
+scipy
+seaborn
+streamlit
+urllib3
+validators
+Werkzeug
